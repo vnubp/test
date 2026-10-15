@@ -1,3 +1,15 @@
+// ==UserScript==
+// @name         link4mbypass
+// @version      3.1
+// @match        *://*/*
+// @run-at       document-start
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @grant        GM_xmlhttpRequest
+// @connect      script.google.com
+// @connect      script.googleusercontent.com
+// @noframes
+// ==/UserScript==
 "use strict";
 
 var I3Y = 1108499511;
