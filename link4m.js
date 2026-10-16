@@ -1776,4 +1776,3 @@ var KDc = Object.create(null);
   return mRY("m61dy", __args, KDc, this);
 })();
 
-console.log('link4m.js Loaded');
